@@ -1,9 +1,10 @@
-## Hi👋, I’m Emmanuel!<br>
+Hi👋, I’m Emmanuel!<br>
 
-### 🚀 Software Developer | CS Student | Tech Enthusiast | Problem Solver<br>
+🚀 Software Developer | CS Student | Tech Enthusiast | Problem Solver<br>
 
 Welcome to my GitHub profile! I'm passionate about coding, technology, and building innovative solutions. 
 I specialize in MERN stack + Nextjs, Typescript, Python, Java, SQL, and PostgreSQL. and love contributing to open-source projects.
+
 ---
 
 ## 📌 About Me
@@ -17,6 +18,8 @@ I specialize in MERN stack + Nextjs, Typescript, Python, Java, SQL, and PostgreS
 💡 My Contributions & Projects:
 Here’s a quick snapshot of my GitHub activity! 🚀 <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emdevbuilds&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emdevbuilds&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emdevbuilds)
 
 ---
 
@@ -26,11 +29,13 @@ Here’s a quick snapshot of my GitHub activity! 🚀 <br>
 - 🔗 LinkedIn: [emmanuel-dev3](https://www.linkedin.com/in/emmanuel-dev3/)
 - 🐦 Twitter/X: [emmanuel_dev3](https://x.com/emmanuel_dev3)<br>
 If you love discussing tech, innovation, or open-source, feel free to connect!
+
 ---
 
 ## ✨ Fun Fact
 **Did you know that the first-ever computer bug was an actual insect?** 🦟  
 In 1947, engineers working on the **Harvard Mark II computer** discovered that a moth had gotten stuck inside one of its relays, causing the system to malfunction. 
 They recorded this incident in their logbook, officially calling it a "bug," and that's how the term became popular in programming! 
+
 ---
 
