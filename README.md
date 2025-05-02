@@ -1,8 +1,11 @@
 # Hi👋, I’m Emmanuel!<br>
+
 ## 🚀 Software Developer | CS Student | Tech Enthusiast | Problem Solver<br>
+
 Welcome to my GitHub profile! I'm passionate about coding, technology, and building innovative solutions. 
 I specialize in MERN stack + Nextjs, Typescript, Python, Java, SQL, and PostgreSQL. and love contributing to open-source projects.
 ---
+
 # 📌 About Me
 - 💻 Tech Stack: MERN stack + Nextjs, Typescript, Python, Java, SQL, PostgreSQL, Figma, Adobe Photoshop and Illustrator.
 - ⚡ Interests: Web development, Software Engineering & Architecture, and Open-Source Contributions.
@@ -11,7 +14,7 @@ I specialize in MERN stack + Nextjs, Typescript, Python, Java, SQL, and PostgreS
 ---
 
 # 📈 GitHub Stats
-**💡 My Contributions & Projects:**
+💡 My Contributions & Projects:
 Here’s a quick snapshot of my GitHub activity! 🚀 
 [GitHub Stats](https://github-readme-stats.vercel.app/api?username=emdevbuilds&show_icons=true&theme=radical)
 ---
