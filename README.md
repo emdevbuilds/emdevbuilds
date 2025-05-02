@@ -1,11 +1,8 @@
-# Hi👋, I’m Emmanuel!
-
-### 🚀 Software Developer | CS Student | Tech Enthusiast | Problem Solver
-
+# Hi👋, I’m Emmanuel!<br>
+## 🚀 Software Developer | CS Student | Tech Enthusiast | Problem Solver<br>
 Welcome to my GitHub profile! I'm passionate about coding, technology, and building innovative solutions. 
 I specialize in MERN stack + Nextjs, Typescript, Python, Java, SQL, and PostgreSQL. and love contributing to open-source projects.
 ---
-
 # 📌 About Me
 - 💻 Tech Stack: MERN stack + Nextjs, Typescript, Python, Java, SQL, PostgreSQL, Figma, Adobe Photoshop and Illustrator.
 - ⚡ Interests: Web development, Software Engineering & Architecture, and Open-Source Contributions.
@@ -23,7 +20,8 @@ Here’s a quick snapshot of my GitHub activity! 🚀
 - 📧 Email: emmanuel.devpro@gmail.com
 - 🌐 Portfolio: [Portfolio](https://portfolio-dun-psi-86.vercel.app/)
 - 🔗 LinkedIn: [emmanuel-dev3](https://www.linkedin.com/in/emmanuel-dev3/)
-- 🐦 Twitter/X: [emmanuel_dev3](https://x.com/emmanuel_dev3)<br><br>If you love discussing tech, innovation, or open-source, feel free to connect!
+- 🐦 Twitter/X: [emmanuel_dev3](https://x.com/emmanuel_dev3)<br>
+If you love discussing tech, innovation, or open-source, feel free to connect!
 ---
 
 # ✨ Fun Fact
