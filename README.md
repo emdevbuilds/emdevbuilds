@@ -1,6 +1,6 @@
-Hi👋, I’m Emmanuel!<br>
+## Hi👋, I’m Emmanuel!<br>
 
-🚀 Software Developer | CS Student | Tech Enthusiast | Problem Solver<br>
+### 🚀 Software Developer | CS Student | Tech Enthusiast | Problem Solver<br>
 
 Welcome to my GitHub profile! I'm passionate about coding, technology, and building innovative solutions. 
 I specialize in MERN stack + Nextjs, Typescript, Python, Java, SQL, and PostgreSQL. and love contributing to open-source projects.
