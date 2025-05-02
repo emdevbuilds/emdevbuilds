@@ -10,7 +10,7 @@ I specialize in MERN stack + Nextjs, Typescript, Python, Java, SQL, and PostgreS
 ## 📌 About Me
 - 💻 Tech Stack: MERN stack + Nextjs, Typescript, Python, Java, SQL, PostgreSQL, Figma, Adobe Photoshop and Illustrator.
 - ⚡ Interests: Web development, Software Engineering & Architecture, and Open-Source Contributions.
-- 🛠️ Projects: [Trust Rising Sun Limited](https://github.com/emdevbuilds/trsl) _Trust Rising Sun Limited is a winery distributor company.
+- 🛠️ Projects: [Trust Rising Sun Limited](https://github.com/emdevbuilds/trsl)
 - 🌱 Currently Learning: C++
 ---
 
