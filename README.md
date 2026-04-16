@@ -25,8 +25,8 @@ Here’s a quick snapshot of my GitHub activity! 🚀 <br>
 
 ## 💬 Let's Connect!
 - 📧 Email: emmanuel.devpro@gmail.com
-- 🌐 Portfolio: [Portfolio](https://portfolio-dun-psi-86.vercel.app/)
-- 🔗 LinkedIn: [emmanuel-dev3](https://www.linkedin.com/in/emmanuel-dev3/)
+- 🌐 Portfolio: [Portfolio](https://emmanuelchukwu.dev)
+- 🔗 LinkedIn: [emmanuel-dev3](https://www.linkedin.com/in/emmanuel-i-chukwu/)
 - 🐦 Twitter/X: [emmanuel_dev3](https://x.com/emmanuel_dev3)<br>
 If you love discussing tech, innovation, or open-source, feel free to connect!
 
