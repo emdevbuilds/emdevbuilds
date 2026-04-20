@@ -27,7 +27,7 @@ Here’s a quick snapshot of my GitHub activity! 🚀 <br>
 - 📧 Email: emmanuel.devpro@gmail.com
 - 🌐 Portfolio: [Portfolio](https://emmanuelchukwu.dev)
 - 🔗 LinkedIn: [emmanuel-i-chukwu](https://www.linkedin.com/in/emmanuel-i-chukwu/)
-- 🐦 Twitter/X: [emmanuel_dev3](https://x.com/emmanuel_dev3)<br>
+- 🐦 Twitter/X: [emdevbuilds](https://x.com/emdevbuilds)<br>
 If you love discussing tech, innovation, or open-source, feel free to connect!
 
 ---
