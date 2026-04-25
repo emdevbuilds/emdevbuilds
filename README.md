@@ -4,7 +4,7 @@
 
 # Hi, I'm Emmanuel 👋
 
-### Full-Stack Engineer · CS Student · Building Real Products
+### Software Engineer · Full-Stack Developer · CS Student
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-emmanuelchukwu.dev-black?style=for-the-badge&logo=vercel)](https://emmanuelchukwu.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emmanuel--i--chukwu-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/emmanuel-i-chukwu)
@@ -18,9 +18,9 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently building **Zewerk** — a blue-collar worker marketplace for Nigeria with real-time chat, Paystack escrow, and SMS notifications
-- 💼 Previously worked at **Trust Rising Sun Limited** and contributed to **OUNUU Health Alliance** (full donation system + admin dashboard)
+- 💼 Engineered the full platform for **OUNUU Health Alliance** (donation system, admin dashboard, SEO, production deployment)
 - 📚 Studying **BSc Computer Science** at IU International University of Applied Sciences (Germany, online)
-- 🌍 Based in **Nigeria** · actively seeking a **paid remote junior role or internship**
+- 🌍 Based in **Enugu, Nigeria** · open to **remote roles worldwide**
 - 🔥 Coding since 2021 · self-taught · daily GitHub streak
 
 ---
@@ -63,19 +63,12 @@ Full-stack platform connecting clients with skilled workers. Features real-time 
 
 ---
 
-### [OUNUU Health Alliance](https://github.com/emdevbuilds)
+### [OUNUU Health Alliance](https://github.com/emdevbuilds/ounuu-health-alliance)
 > Non-profit healthcare donation platform
 
-Built the full donation system, admin dashboard with session-based auth, SEO setup (Google Search Console, sitemap), and production deployment on Vercel.
+Engineered the full donation system, admin dashboard with session-based auth, SEO setup (Google Search Console, sitemap), and production deployment on Vercel.
 
 `Next.js 15` `TypeScript` `MongoDB` `Paystack` `Tailwind CSS` `shadcn/ui` `Framer Motion`
-
----
-
-### [Trust Rising Sun Limited](https://github.com/emdevbuilds/trsl)
-> Corporate web platform (paid client work)
-
-`PHP` `SQL` `HTML/CSS`
 
 ---
 
@@ -86,7 +79,7 @@ Built the full donation system, admin dashboard with session-based auth, SEO set
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emdevbuilds&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emdevbuilds&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emdevbuilds&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=emdevbuilds&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -94,7 +87,7 @@ Built the full donation system, admin dashboard with session-based auth, SEO set
 
 <div align="center">
 
-**Open to remote junior roles and internships. Let's build something.**
+**Open to remote roles worldwide. Let's build something.**
 
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-emmanuelchukwu.dev-black?style=for-the-badge&logo=vercel)](https://emmanuelchukwu.dev)
 
